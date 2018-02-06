@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1517162557 source:c:\users\jo_go\dropbox\scuola\a.s. 2017 - 2018\tdp\4\3.polimorfismo\compito\aerodromo\src\aeromobile.cpp
+	"Aeromobile.h"
+
+1517428686 c:\users\jo_go\dropbox\scuola\a.s. 2017 - 2018\tdp\4\3.polimorfismo\compito\aerodromo\include\aeromobile.h
+	<iostream>
+	<string>
+
+1517428686 source:c:\users\jo_go\dropbox\scuola\a.s. 2017 - 2018\tdp\4\3.polimorfismo\compito\aerodromo\src\aereimotore.cpp
+	"AereiMotore.h"
+
+1517429979 c:\users\jo_go\dropbox\scuola\a.s. 2017 - 2018\tdp\4\3.polimorfismo\compito\aerodromo\include\aereimotore.h
+	"Aeromobile.h"
+
+1517428686 source:c:\users\jo_go\dropbox\scuola\a.s. 2017 - 2018\tdp\4\3.polimorfismo\compito\aerodromo\src\aliante.cpp
+	"Aliante.h"
+
+1517429979 c:\users\jo_go\dropbox\scuola\a.s. 2017 - 2018\tdp\4\3.polimorfismo\compito\aerodromo\include\aliante.h
+	"Aeromobile.h"
+
+1517428743 source:c:\users\jo_go\dropbox\scuola\a.s. 2017 - 2018\tdp\4\3.polimorfismo\compito\aerodromo\main.cpp
+	"Aliante.h"
+	"AereiMotore.h"
+
