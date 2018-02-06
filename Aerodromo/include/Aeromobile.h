@@ -16,7 +16,7 @@ class Aeromobile
         string siglaId; //Sigla che identifica un Aeromobile
         double peso;    //peso in Kg
 
-
+///INSERISCO UN COMMENTO DI PROVA
 };
 
 #endif // AEROMOBILE_H
