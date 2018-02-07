@@ -1,3 +1,4 @@
+//Branch Collaboratore
 #include "AereiMotore.h"
 
 AereiMotore::AereiMotore(string siglaId, double peso, double potenzaCV, double consumo):Aeromobile(siglaId,peso)
