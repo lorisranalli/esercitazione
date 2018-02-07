@@ -1,3 +1,4 @@
+//Il collaboratore inserisce un commento
 #ifndef AEREIMOTORE_H
 #define AEREIMOTORE_H
 
